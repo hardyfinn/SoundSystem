@@ -1,0 +1,23 @@
+{
+  "slug": "SoundSystem",
+  "name": "Sound System",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Haer",
+  "author": "Haer",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/hardyfinn/SoundSystem",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "SoundSystem",
+      "name": "Sound System",
+      "description": "Makes any input sound like it is coming out of a big physical sound system in a real space: scoop bins, horns, pushed amps, sub weight, room, distance. 8 systems: dub hall, techno club, warehouse, basement, Kingston street dance, disco loft, festival, through the wall (with a DOOR)",
+      "tags": ["Effect", "Reverb", "Equalizer", "Distortion"]
+    }
+  ]
+}
