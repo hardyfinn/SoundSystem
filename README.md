@@ -46,3 +46,7 @@ CV inputs (10 V = full knob): SYSTEM (0-10 V steps through all 8), PUSH, DISTANC
 `make` with the Rack SDK (`RACK_DIR=...`). GitHub Actions builds the Mac (Apple Silicon) plugin on every push.
 `make test` runs the engine offline and writes `test/soundsystem-demo.wav` (a dry loop, then each of the 8 systems, a distance sweep, the door opening, extremes, and a sweep through all systems).
 Panel: `python3 res/make_panel.py` (needs fonttools); preview: `python3 tools/preview.py panel-preview.png`.
+
+## Licence
+
+MIT (see `LICENSE.txt`): you're free to use, change, port (VST/CLAP, other platforms, hardware) and share this code, as long as the copyright notice and licence text come along. Fonts on the panel (Inter, Climate Crisis) are under the SIL Open Font Licence.
